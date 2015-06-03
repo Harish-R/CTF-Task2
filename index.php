@@ -4,6 +4,9 @@
 	</head>
 	<body>
 		<form method="POST" action="my_details.php">
+			<label for="roll">Roll No:</label>
+			<input type="number" name="roll" />
+			<br>
 			<label for="name">Name:</label>
 			<input type="text" name="name" />
 			<br>
